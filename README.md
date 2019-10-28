@@ -1,2 +1,2 @@
 # aguru
-The aguru Programming Language—Compilers and Description
+The aguru Programming Language

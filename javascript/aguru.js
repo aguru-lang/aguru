@@ -80,4 +80,4 @@ const parse=m=>f=>x=>s=>
 console.log(joinList(map(b=>b(T))(functions)));
 console.log(first(map(b=>b(T))(functions))('dfjkg'));
 console.log(parse('')(id)(functions)('cctba')(T));
-console.log(first(map(a=>a(T))(functions))('(abprcd'));
+console.log(first(map(a=>a(T))(functions))('(abprcd')); //XVY986#mqs
